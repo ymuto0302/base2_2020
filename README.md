@@ -11,4 +11,4 @@
 1. 自前のクラスを作る [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ymuto0302/base2_2020/blob/master/base2_python7.ipynb)
 
 ## オープンデータの活用
-1. 気象庁のデータの可視化(1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ymuto0302/base2_2020/blob/master/base2_python1.ipynb)
+1. 気象庁のデータの可視化(1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/opendata1.ipynb)
