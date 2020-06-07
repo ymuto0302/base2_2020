@@ -12,3 +12,5 @@
 
 ## オープンデータの活用
 1. 気象庁のデータの可視化(1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/opendata1.ipynb)
+1. 新型コロナウイルス感染症(COVID-19)データの可視化(1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/opendata2.ipynb)
+1. (参考) pandas の groupby によるグルーピング ＆ 統計量の算出 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/pandas_groupby.ipynb)
