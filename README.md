@@ -16,3 +16,6 @@
 1. (参考) pandas の groupby によるグルーピング ＆ 統計量の算出 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/pandas_groupby.ipynb)
 1. 新型コロナウイルス感染症(COVID-19)データの可視化(2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/opendata3.ipynb)
 1. Google's COVID-19 Community Mobility Reports からの可視化 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/opendata4.ipynb)
+
+## 経済データの分析
+1. 経済データの分析(1) : 環境構築および Quandl の利用 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/economicdata1.ipynb)
