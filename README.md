@@ -20,4 +20,5 @@
 ## 経済データの分析
 1. 経済データの分析(1) : 環境構築および Quandl の利用 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/economicdata1.ipynb)
 1. 株価の相関
-  経済データの分析(1) : 環境構築および Quandl の利用 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/economicdata1.ipynb)
+  - 株価データの取得 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/economicdata1.ipynb)
+    - ABC
