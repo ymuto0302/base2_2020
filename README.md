@@ -21,4 +21,5 @@
 1. 経済データの分析(1) : 環境構築および Quandl の利用 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/economicdata1.ipynb)
 1. 株価の相関
     - 東証一部上場企業の株価データの収集 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/TSE_data_collection.ipynb)
-    - 経済データの分析：企業の株価推移の相関 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/stock_correlation.ipynb)
+    - 経済データの分析(2)：企業の株価推移の相関 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/stock_correlation.ipynb)
+1. 経済データの分析(3)：株価の移動平均／パフォーマンス評価 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/stock_evaluation.ipynb)
