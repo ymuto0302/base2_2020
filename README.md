@@ -25,3 +25,6 @@
 1. 経済データの分析(3)：株価の移動平均／パフォーマンス評価 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/stock_evaluation.ipynb)
 1. 経済データの分析(4)：日経平均銘柄の騰落率の評価 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/japan_stock_return.ipynb)
 1. 経済データの分析(5)：株価の時系列相関 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/japan_stock_correlation.ipynb)
+
+## 地理情報の活用
+1. 地理情報の活用(1) : geopandas の使い方／地理情報データの重ね合わせ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/intro_to_geopandas.ipynb)
