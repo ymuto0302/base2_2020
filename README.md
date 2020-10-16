@@ -28,3 +28,4 @@
 
 ## 地理情報の活用
 1. 地理情報の活用(1) : geopandas の使い方／地理情報データの重ね合わせ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/intro_to_geopandas.ipynb)
+1. 地理情報の活用(2)：「地図で見る統計(統計GIS)」を用いた人口密度分布の可視化 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/pop_density.ipynb)
