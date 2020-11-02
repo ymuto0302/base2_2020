@@ -33,5 +33,8 @@
     - GeoDataFrameの作り方 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/GIS3_GeoDataFrame.ipynb)
     - 測地系と投影座標系 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/GIS3_CoordinateReferenceSystem.ipynb)
     - 平面座標を用いた店舗の配置 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/GIS3_shop_location_on_PRCS.ipynb)
-    
+1. 地理情報の活用(4)：商圏人口の推定 (後半)
+    - 商圏に居住する人口を求める方法 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/GIS3_market_area_estimation.ipynb)
+    - 現実の店舗を対象とした商圏人口の推定 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/GIS3_market_area_practice.ipynb)
+
 
