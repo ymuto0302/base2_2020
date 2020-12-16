@@ -37,3 +37,6 @@
     - 商圏に居住する人口を求める方法 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/GIS3_market_area_estimation.ipynb)
     - 現実の店舗を対象とした商圏人口の推定 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/GIS3_market_area_practice.ipynb)
 1. 地理情報の活用(5)：SDGsと地理情報 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/GIS5_WDI_education.ipynb)
+
+## マルチエージェントシミュレーション (multi-agent simulation)
+1. MAS(1)：Mesa のチュートリアルを追いかける [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/Mesa_introductory_tutorial.ipynb)
