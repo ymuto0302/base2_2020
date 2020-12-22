@@ -40,3 +40,4 @@
 
 ## マルチエージェントシミュレーション (multi-agent simulation)
 1. MAS(1)：Mesa のチュートリアルを追いかける [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/Mesa_introductory_tutorial.ipynb)
+1. MAS(2)：単純なSIRモデル [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ymuto0302/base2_2020/blob/master/SIRmodel_base.ipynb)
